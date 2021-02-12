@@ -1,2 +1,2 @@
 # Wordwolf
-Wordwolfを
+Wordwolfをdiscordで楽しむためのbot。
